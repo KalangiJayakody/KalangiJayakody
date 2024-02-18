@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a computer-sided knowledgeable, well-organized, and enthusiastic fresher looking to broaden my knowledge and work as a team or as an individual to complete tasks, bring value to the organization by putting in my all efforts and have a great experience with professionals while developing my skills and supporting me in my future career path. Furthermore, I am eager to devote all of my efforts to achieve success with a clean finish so that the result can be proudly shown at the conclusion.
+<p align="justify" >I am a computer-sided knowledgeable, well-organized, and enthusiastic fresher looking to broaden my knowledge and work as a team or as an individual to complete tasks, bring value to the organization by putting in my all efforts and have a great experience with professionals while developing my skills and supporting me in my future career path. Furthermore, I am eager to devote all of my efforts to achieve success with a clean finish so that the result can be proudly shown at the conclusion. </p>
 
 
 ## 🌐 Socials:
